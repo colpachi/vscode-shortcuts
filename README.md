@@ -5,3 +5,5 @@ Some shortcuts to get job done faster, enjoy!
 
 1. Opening a file from workspace: ctrl + p
 2. Closing active file in editor: ctrl + w
+
+made with :heart: by colpachi
